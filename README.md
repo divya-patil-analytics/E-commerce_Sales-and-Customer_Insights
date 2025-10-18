@@ -20,3 +20,10 @@ Sample e-commerce dataset containing order details, customer information, and sa
 Divya Patil
 Electrical Engineering Graduate | Aspiring Data Analyst
 
+📊 **Dashboard Preview**
+
+| Overview | Sales | Customer | Product | Profitability |
+|-----------|--------|-----------|----------|----------------|
+| ![page1](page1_overview.jpg) | ![page2](page2_sales_overview.jpg) | ![page3](page3_customer.png) | ![page4](page4_Product_analysis.png) | ![page5](page5_Profitability.png) |
+
+
